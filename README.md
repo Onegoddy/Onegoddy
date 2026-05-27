@@ -31,6 +31,6 @@
 
 ## 🌐 Socials
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](LINK)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](LINK)
-[![Discord](https://skillicons.dev/icons?i=discord)](LINK)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/one_goddy/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kayky-paschoal-ribeiro-8041062a2/)
+[![Discord](https://skillicons.dev/icons?i=discord)](one_goddy)
