@@ -23,9 +23,9 @@
 
 ## 📊 GitHub Stats
 
-![Kayky's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![Kayky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onegoddy&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onegoddy&layout=compact&theme=tokyonight)
 
 ---
 
