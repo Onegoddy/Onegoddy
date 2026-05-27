@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 My name is Kayky
 
-<!--
-**Onegoddy/Onegoddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Software Engineering Student  
+💻 Full Stack Developer  
+🤖 Passionate about AI, IoT and Cloud  
+🎮 Gamer & Anime Fan  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on personal and college projects
+- 🌱 Learning Java, Spring Boot, React and Azure
+- ⚡ Fun fact: I probably have too many unfinished side projects
+
+---
+
+## 🛠 Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,python,mysql,azure,arduino,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Kayky's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Socials
+
+[![Instagram](https://skillicons.dev/icons?i=instagram)](LINK)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](LINK)
+[![Discord](https://skillicons.dev/icons?i=discord)](LINK)
